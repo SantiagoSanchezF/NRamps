@@ -10,6 +10,7 @@ INSTALLATION:
     We recommend cloning this repository with git (v). Downloading the .zip file wont get the .pkl models in /models/ directory, due to the lsf protocol used for large files.
     from this folder:
         conda env create -f NRampsEnv.yml
+        source activate NRamps
         Rscript install.peptides.R
         
 USAGE:
