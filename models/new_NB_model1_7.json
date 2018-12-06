@@ -1,0 +1,1 @@
+["the future is now", {"patt": ["G-[ALV]-P-x-C-G-E-[ST]-C-x(2)-G-x-C-x-T-x-[GQ]-C-x-C-x(2,4)-P-[IMV]-C-x-[HR]-[DN]"], "probAmp": [0.5978260869565217], "probNotAmp": [0.0003990422984836393], "pattRegex": ["G[ALV]P[A-Z]CGE[ST]C[A-Z]{2}G[A-Z]C[A-Z]T[A-Z][GQ]C[A-Z]C[A-Z]{2,4}P[IMV]C[A-Z][HR][DN]"]}]

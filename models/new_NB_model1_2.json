@@ -1,0 +1,1 @@
+["the future is now", {"patt": ["C-x(0,2)-S-C-x(3)-[IPV]-C-x(2)-[ADGNPST]"], "probAmp": [0.5934579439252337], "probNotAmp": [0.018036912751677854], "pattRegex": ["C[A-Z]{0,2}SC[A-Z]{3}[IPV]C[A-Z]{2}[ADGNPST]"]}]
