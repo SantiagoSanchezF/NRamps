@@ -15,9 +15,6 @@ USAGE:
     activate the NRamps enviroment:
         $ source activate NRamps
     from this folder execute:
-        $ python modules/master.py pruba.fa
-    the default browser should open with the notebook, click on NRampsJupy.ipynb
-    Follow the notebook
-    
-    Change the input file name in the notebook (as instructed inside)
+        $ python modules/master.py prueba.fa
+
     
