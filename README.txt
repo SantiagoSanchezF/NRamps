@@ -1,6 +1,5 @@
 NRamps:
 This repository containds a Python 3 implementation of # NRamps, a multi-module tool for Antimicrobial Peptides prediction. Module AmpPro predicts C-terminus cleavage site, and returns a list of predicted mature sequences. Module NaiveBayesNRamps performs a sequence-dependent prediction of AMPs. Module ChemAtrClassNR predicts AMPs calculating diferent physicochemical attributes.
-Its implemented as a jypyther notebook
 
 Dependencies:
     linux/OSX 64X
