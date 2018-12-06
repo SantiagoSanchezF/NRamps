@@ -15,6 +15,6 @@ USAGE:
     activate the NRamps enviroment:
         $ source activate NRamps
     from this folder execute:
-        $ python modules/master.py prueba.fa
+        $ python modules/master.py -m prueba.fa
 
     
